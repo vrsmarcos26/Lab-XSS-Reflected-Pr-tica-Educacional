@@ -39,7 +39,7 @@ Acesse no navegador:
 
 ```http://localhost:8080```
 
-##📝 Como realizar o lab (Write-up)
+## 📝 Como realizar o lab (Write-up)
 Acesse a URL do lab.
 Digite um valor simples como teste no campo de pesquisa e veja o resultado refletido.
 Tente injetar JavaScript usando:
@@ -52,8 +52,8 @@ Ao sucesso, a flag será exibida:
 
 ```FLAG{XSS_REFLECTED_SUCESSO}```
 
-##🚨 Aviso de segurança
+## 🚨 Aviso de segurança
 Este código é deliberadamente vulnerável e não deve ser usado em produção. É um projeto para fins de estudo em ambientes controlados.
 
-##🙌 Créditos
+## 🙌 Créditos
 Baseado nas aulas e desafios do Hacking Club.
