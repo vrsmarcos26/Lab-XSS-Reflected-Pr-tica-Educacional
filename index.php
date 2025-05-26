@@ -5,7 +5,7 @@
 
         // Verifica se a string tem uma tentativa de XSS simples
         if (stripos($pesquisa, '<script>') !== false || stripos($pesquisa, 'onerror=') !== false || stripos($pesquisa, 'alert(') !== false) {
-            $flag = '<br><strong style="color:green">Você encontrou a flag: FLAG{XSS_REFLECTED_SUCESSO}</strong>';
+            $flag = '<br><strong style="color:green">Você encontrou a flag: FLAG{<XSS>SUCCESS</XSS>}</strong>';
         }
 
         echo "<center>Você pesquisou por: $pesquisa $flag</center>";
