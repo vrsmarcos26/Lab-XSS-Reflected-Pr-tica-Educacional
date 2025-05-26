@@ -50,7 +50,7 @@ Tente injetar JavaScript usando:
 A página refletirá o script, e o navegador executará.
 Ao sucesso, a flag será exibida:
 
-```FLAG{XSS_REFLECTED_SUCESSO}```
+```FLAG{X$$_R3FL3CT3D_5UC3550}```
 
 ## 🚨 Aviso de segurança
 Este código é deliberadamente vulnerável e não deve ser usado em produção. É um projeto para fins de estudo em ambientes controlados.
